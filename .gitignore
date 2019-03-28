@@ -1,0 +1,5 @@
+node_modules
+
+# Dot files
+._*
+.DS_Store
