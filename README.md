@@ -1,6 +1,6 @@
 # incruises-images
 
-`/images`
+## `/images`
 
 | Option   | Description                                                |
 |----------|------------------------------------------------------------|
