@@ -1,6 +1,7 @@
 # incruises-images
 
 `/images`
+
 | Option   | Description                                                |
 |----------|------------------------------------------------------------|
 | url      | Source URL of the image                                    |
